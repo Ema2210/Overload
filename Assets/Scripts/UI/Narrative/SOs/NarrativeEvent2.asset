@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a7e6b246c70db4c82e9c5700a64665, type: 3}
+  m_Name: NarrativeEvent2
+  m_EditorClassIdentifier: 
+  <EventName>k__BackingField: Aria Nova
+  text: "I\u2019m Aria Nova, and I have a deep understanding of this feeling...\r\n\r\nBut
+    I have my own vision of destiny, a mission.\r\nOne so impossible that even thinking
+    of going down that path can end my life as I know it. \r"
+  <Art>k__BackingField: {fileID: 0}

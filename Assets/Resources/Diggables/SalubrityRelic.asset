@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0645f244ea52c5b499daa0f2963fe1e7, type: 3}
+  m_Name: SalubrityRelic
+  m_EditorClassIdentifier: 
+  <TileType>k__BackingField: 31
+  <Name>k__BackingField: Salubrity Relic
+  <Category>k__BackingField: 3
+  <ValuePerUnit>k__BackingField: 200
+  <UISprite>k__BackingField: {fileID: 21300000, guid: 091f892831cd25f4490191246c1ce1a4, type: 3}

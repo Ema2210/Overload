@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce6c9aaa47c1444c8fbf8c26d637bfb, type: 3}
+  m_Name: V8 Supercharged 5.0 Ltr
+  m_EditorClassIdentifier: 
+  <UpgradeName>k__BackingField: V8 Supercharged 5.0 Ltr
+  <Description>k__BackingField: 'Just a  V8 Supercharged 5.0 Ltr '
+  <Cost>k__BackingField: 20000
+  <UpgradeArt>k__BackingField: {fileID: 21300000, guid: 2d380581d8f675d4c8126c1a46fc2d60, type: 3}
+  <MovementSpeed>k__BackingField: 1.3
